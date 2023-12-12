@@ -1,5 +1,6 @@
+import { HomeScreen } from "./screens";
 const App = () => {
-  return <h1>Glamore delivery</h1>;
+  return <HomeScreen />;
 };
 
 export default App;
